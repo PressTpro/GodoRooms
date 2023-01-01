@@ -1,4 +1,4 @@
-# GodoRooms
+# <a href="https://bluegr.cf/godo">GodoRooms</a>
 GodoRooms is a Open Source Place Explorer. It connects to the Godo Site. then it shows the page. from the page you can Download GoodRooms Clients and Games. it also haves exclusive places
 ## Compiling
 1. Download the repo as a zip
