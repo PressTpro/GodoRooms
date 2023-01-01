@@ -1,4 +1,4 @@
-# <a href="https://bluegr.cf/godo">GodoRooms</a>
+# <a href="https://bluegr.cf/godo"><img src="https://bluegr.cf/img/GodoLogo.png"></a>
 GodoRooms is a Open Source Place Explorer. It connects to the Godo Site. then it shows the page. from the page you can Download GoodRooms Clients and Games. it also haves exclusive places
 ## Compiling
 **This Guide is designed for Windows Users, If you're in mac. to compile use Debug > Start Without Debugging**
